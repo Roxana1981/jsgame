@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,400;1,300&family=Raleway:wght@500&display=swap');
+
+body {
+    font-family: Raleway, sans-serif;
+    text-align: center;
+    background-color: #809da7;
+
+}
+
+.selector {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
