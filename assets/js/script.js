@@ -6,7 +6,9 @@ choices.forEach(choice) => {
     choice.addEventListener("click", function() {
         const playerInput = this.name;
 
-        const computerChoices (playerInput, computerInput);
+        const computerChoices = ["rock", "paper", "scissors"];
+        const computerInput = computerChoices[Math.floor(Math.random() * 3)];
+
         compareInputs(playerInput, computerInput);
         updateScore();
         if(checkWinner()) {
