@@ -29,9 +29,21 @@ function compareInputs(playerInput, computerInput){
 }
 
 function updateScore() {
+    document.getElementById("player-score").textContent = playerScore;
+    document.getElementById("computer-score").textContent = computerScore;
 
 }
 
 function checkWinner () {
+    if (playerScore === 5 || computerScore ===5) {
+        const winner = 
+        playerScore === 5
+        ? "You win the game! Congrats!"
+        : "You lose. Please try again!";
+        document.getElementById("result").textContent= winner;
+        return true;
+    }
+    return false;
+}
 
 }
