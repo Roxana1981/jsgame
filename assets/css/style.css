@@ -7,11 +7,15 @@ body {
 
 }
 
+/* container styling */
+
 .main-container {
 
     justify-content: center;
     width: auto;
 }
+
+/* selector styling */
 
 .selector {
     display: inline-flex;
@@ -26,6 +30,8 @@ body {
     vertical-align:top;
     
 }
+
+/* player and computer selection styling */
 
 #playerselection {
     display: inline-flex;
@@ -45,6 +51,8 @@ body {
     max-height: 250px;
 }
 
+/* choices styling */
+
 .choices {
     display: inline-flex;
     flex-wrap: wrap;
@@ -55,11 +63,15 @@ body {
     
 }
 
+/* footer styling */
+
 footer {
     position: absolute;
     width: 100%;
     text-align: center;
 }
+
+/* media query for break point of 525px */
 
 @media screen and (max-width:525px) {
 
@@ -72,6 +84,8 @@ footer {
         max-height: 200px;
 }   
 }
+
+/* media query for break point of 425px */
 
 @media screen and (max-width:425px) {
 
