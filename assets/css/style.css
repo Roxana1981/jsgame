@@ -61,3 +61,48 @@ footer {
     text-align: center;
 }
 
+@media screen and (max-width:525px) {
+
+    .choices {
+        display: inline-flex;
+        flex-wrap: wrap;
+        width: auto;
+        height: auto;
+        max-width: 200px;
+        max-height: 200px;
+}   
+}
+
+@media screen and (max-width:425px) {
+
+    .choices {
+        display: inline-flex;
+        flex-wrap: wrap;
+        width: auto;
+        height: auto;
+        max-width: 150px;
+        max-height: 150px;
+
+    
+}   
+
+#playerselection {
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: auto;
+    height: auto;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+#computerselection {
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: auto;
+    height: auto;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+}
+
