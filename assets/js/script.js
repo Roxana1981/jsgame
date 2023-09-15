@@ -104,4 +104,3 @@ function checkWinner () {
     }
     return false;
 }
-
