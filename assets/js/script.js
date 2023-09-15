@@ -24,11 +24,13 @@ choices.forEach((choice) => {
     });
 
 
-
+// function to update user selections 
 function updateSelections(playerInput, computerInput){
     document.getElementById("player-selection").src = `./assets/images/${playerInput}.png`;
     document.getElementById("computer-selection").src =`./assets/images/${computerInput}.png`;
 }
+
+// function to pick winner
 
 function compareInputs(playerInput, computerInput){
     const currentMatch = `${playerInput} vs ${computerInput}`;
@@ -81,11 +83,15 @@ function compareInputs(playerInput, computerInput){
 
 }
 
+// function for score updates
+
 function updateScore() {
     document.getElementById("player-score").textContent = playerScore;
     document.getElementById("computer-score").textContent = computerScore;
 
 }
+
+// function to check for winner
 
 function checkWinner () {
     if (playerScore === 5 || computerScore ===5) {
