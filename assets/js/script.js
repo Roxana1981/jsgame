@@ -26,8 +26,8 @@ choices.forEach((choice) => {
 
 // function to update user selections 
 function updateSelections(playerInput, computerInput){
-    document.getElementById("playerselection").src = `./assets/images/${playerInput}.png`;
-    document.getElementById("computerselection").src =`./assets/images/${computerInput}.png`;
+    document.getElementById("playerselection").src = `./assets/images/${playerInput}.jpg`;
+    document.getElementById("computerselection").src =`./assets/images/${computerInput}.jpg`;
 }
 
 // function to pick winner
@@ -86,8 +86,8 @@ function compareInputs(playerInput, computerInput){
 // function for score updates
 
 function updateScore() {
-    document.getElementById("player-score").textContent = playerScore;
-    document.getElementById("computer-score").textContent = computerScore;
+    document.getElementById("playerscore").textContent = playerScore;
+    document.getElementById("computerscore").textContent = computerScore;
 
 }
 
