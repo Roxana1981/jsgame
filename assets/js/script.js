@@ -26,8 +26,8 @@ choices.forEach((choice) => {
 
 // function to update user selections 
 function updateSelections(playerInput, computerInput){
-    document.getElementById("player-selection").src = `./assets/images/${playerInput}.png`;
-    document.getElementById("computer-selection").src =`./assets/images/${computerInput}.png`;
+    document.getElementById("playerselection").src = `./assets/images/${playerInput}.png`;
+    document.getElementById("computerselection").src =`./assets/images/${computerInput}.png`;
 }
 
 // function to pick winner
