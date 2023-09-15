@@ -1,10 +1,10 @@
-// Consts and variables
+// consts and variables
 
 const choices = document.querySelectorAll(".choices");
 let playerScore = 0;
 let computerScore = 0;
 
-// Eventlistener for selection of choices
+// eventlistener for selection of choices
 
 choices.forEach((choice) => {
     choice.addEventListener("click", function () {
