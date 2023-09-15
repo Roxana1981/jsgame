@@ -7,27 +7,38 @@ body {
 
 }
 
+.main-container {
+
+    justify-content: center;
+    width: auto;
+}
+
 .selector {
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
+    max-width: 250px;
+    
+}
+
+.selection {
+    vertical-align:top;
+    
+}
+
+.choices {
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: auto;
+    height: auto;
+    max-width: 250px;
+    max-height: 250px;
+    
 }
 
 footer {
-    height: 150px;
-}
-
-.social-media {
+    position: absolute;
+    width: 100%;
     text-align: center;
 }
 
-.social-media > li {
-    display: inline;
-}
-
-.social-media i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    color: #111111;
-}
