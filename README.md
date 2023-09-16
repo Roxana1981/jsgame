@@ -63,9 +63,29 @@ The following features are considered for future developments, in order to impro
 
 ## Testing 
 
+As part of the project testing, the following test areas were completed.
+
 **Functional**
 
+The below functional tests were performed:
+
+- It was verified that user selection was correctly displayed in the selection area.
+- It was verified that user selection corresponded to a correct message displayed.
+- It was verified that scores are updated accurately.
+- It was verified that the logic to declare game's winner was correct.
+- It was verified that the game ends after 5 rounds played.
+
 **Responsive user experience**
+
+- Tested the responsive design with break points of: 1200px, 1024px, 740px and 320px using Chrome dev tool.
+
+- Testing was completed on the following devices: desktop, laptop, Ipad Mini and Samsung A51.
+
+- Game page required some styling adjustments for the above break points.
+
+- Media query at the break points of 525px and 425px have been added to CSS styling in order to enhance user experience.
+
+- There are remaining possible changes in aim to improve the overall responsive user experience.
 
 **Code testing**
 
