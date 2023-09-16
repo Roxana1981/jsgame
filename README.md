@@ -8,9 +8,22 @@ Play the game [here](https://roxana1981.github.io/jsgame/)
 
 ### Background
 
+The game was created for completion of the second Milestone Project for the Software Development and E-commerce Applications diploma. It was built using the knowledge gained from HTML, CSS and JavaScrip modules of the course.
+The objective of the game is to entertain users in a quick and simple way.
+
 ## User Experience 
 
+The game was designed to be simple in terms the layout and the functionality to play. Visual elements such as pictures were added to attract users, specifically when making a choice at the game play, and also seeing the choice selected by the computer.
+
 ## Game design 
+
+The game is displayed in a one page layout to allow for quick and simple user experience.
+
+-**Game instructions** - The rules of the game are simple and displayed in the page layout inviting users to make their selection by clicking on an image of their choice.
+
+-**Colors and background**- Colours of the website are mainly grey and black. Colours and background of the site are taught to be of a relaxing shade and elegant, and are to create a retro feel.
+
+-**Typography** – I have selected font “Raleway” font sourced from Google Fonts library.
 
 ## Features 
 
