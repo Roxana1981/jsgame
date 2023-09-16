@@ -29,18 +29,25 @@ The game is displayed in a one page layout to allow for quick and simple user ex
 
 ### Game
 
+The below demonstrates the entire user experience and the homepage of the game.
+
 ![Game Page](assets/images/page.JPG)
 
-
 ### Scores
+
+In this specific section users will be able to see the current scores and the progress of the game.
 
 ![scores](assets/images/score.JPG)
 
 ### Selection Area
 
+In this section users, prior to starting a game will see 2 images representing the user and the computer. Once the game starts the images will be changed to selected choices by user and the computer.
+
 ![Selection Area](assets/images/selection.JPG)
 
 ### Options Area
+
+In this section users will be able to make their game selection by clicking on the image of their choice.
 
 ![Option Area](assets/images/options.JPG)
 
