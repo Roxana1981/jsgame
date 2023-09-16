@@ -1,5 +1,7 @@
 # Rock Paper Scissors Game by Roxana
 
+Simple and entertaining Rock Paper Scissors online game. 
+
 Play the game [here](https://roxana1981.github.io/jsgame/)
 
 ![Multiscreen view](assets/images/multi.jpg)
@@ -13,15 +15,15 @@ The objective of the game is to entertain users in a quick and simple way.
 
 ## User Experience 
 
-The game was designed to be simple in terms the layout and the functionality to play. Visual elements such as pictures were added to attract users, specifically when making a choice at the game play, and also seeing the choice selected by the computer.
+The game was designed to be simple, in terms of the layout and the functionality to play. Visual elements such as pictures were added to attract users while making their choice of rock, paper or scissors. 
 
 ## Game design 
 
-The game is displayed in a one page layout to allow for quick and simple user experience.
+The game is displayed in a one page layout to allow a quick and simple user experience.
 
--**Game instructions** - The rules of the game are simple and displayed in the page layout inviting users to make their selection by clicking on an image of their choice.
+-**Game instructions** - The rule of the game is displayed only one sentence, aiming for quick reading, and inviting users to make their selection by clicking on an image of their choice.
 
--**Colors and background**- Colours of the website are mainly grey and black. Colours and background of the site are taught to be of a relaxing shade and elegant, and are to create a retro feel.
+-**Colors and background**- Colours of the website are light grey and black. Colours and background of the site are taught to be of a relaxing shade and elegant, with a retro style.
 
 -**Typography** – I have selected font “Raleway” font sourced from Google Fonts library.
 
@@ -41,13 +43,13 @@ In this specific section users will be able to see the current scores and the pr
 
 ### Selection Area
 
-In this section users, prior to starting a game will see 2 images representing the user and the computer. Once the game starts the images will be changed to selected choices by user and the computer.
+In this section, users, prior to starting a game will see 2 images representing the user player and the computer. Once the game starts, the images will be changed to selected choices by user and the computer.
 
 ![Selection Area](assets/images/selection.jpg)
 
 ### Options Area
 
-In this section users will be able to make their game selection by clicking on the image of their choice.
+In this section, users will be able to make their game selection by clicking on the image of their choice.
 
 ![Option Area](assets/images/options.jpg)
 
@@ -55,11 +57,11 @@ In this section users will be able to make their game selection by clicking on t
 
 The following features are considered for future developments, in order to improve the game and enhance user experience:
 
-1. Sizing of the images displayed in the game interface could be improved to create additionl wow factor.
-2. Styling could be enhanced with focus on increasing the retro feel of the game.
-3. Favicon icon could be added to this project to create individual feel for this game.
-4. Game messaging could be also improved, with text changes to increase retro feel of the game and also to enhance user experience.
-5. There is a scope to improve responsive user experience specifically for smaller devices in order to better balance text and images on the screen.
+1. Sizing of the images displayed in the game interface can be improved to create additionl wow factor.
+2. Styling can be enhanced with focus on increasing the retro style of the game.
+3. Favicon icon can be added to this project, to create individual feel for this game.
+4. Game messaging can be improved to enhance user experience.
+5. There is a scope to improve responsive user experience, specifically for smaller devices in order to better balance text and images on the screen.
 
 ## Testing 
 
