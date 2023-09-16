@@ -53,6 +53,14 @@ In this section users will be able to make their game selection by clicking on t
 
 ## Potential future developments
 
+The following features are considered for future developments, in order to improve the game and enhance user experience:
+
+1. Sizing of the images displayed in the game interface could be improved to create additionl wow factor.
+2. Styling could be enhanced with focus on increasing the retro feel of the game.
+3. Favicon icon could be added to this project to create individual feel for this game.
+4. Game messaging could be also improved, with text changes to increase retro feel of the game and also to enhance user experience.
+5. There is a scope to improve responsive user experience specifically for smaller devices in order to better balance text and images on the screen.
+
 ## Testing 
 
 **Functional**
