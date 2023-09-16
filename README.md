@@ -2,7 +2,7 @@
 
 Play the game [here](https://roxana1981.github.io/jsgame/)
 
-![Multiscreen view](assets/images/multi.JPG)
+![Multiscreen view](assets/images/multi.jpg)
 
 ## Project 2
 
@@ -31,25 +31,25 @@ The game is displayed in a one page layout to allow for quick and simple user ex
 
 The below demonstrates the entire user experience and the homepage of the game.
 
-![Game Page](assets/images/page.JPG)
+![Game Page](assets/images/page.jpg)
 
 ### Scores
 
 In this specific section users will be able to see the current scores and the progress of the game.
 
-![scores](assets/images/score.JPG)
+![scores](assets/images/score.jpg)
 
 ### Selection Area
 
 In this section users, prior to starting a game will see 2 images representing the user and the computer. Once the game starts the images will be changed to selected choices by user and the computer.
 
-![Selection Area](assets/images/selection.JPG)
+![Selection Area](assets/images/selection.jpg)
 
 ### Options Area
 
 In this section users will be able to make their game selection by clicking on the image of their choice.
 
-![Option Area](assets/images/options.JPG)
+![Option Area](assets/images/options.jpg)
 
 ## Potential future developments
 
@@ -96,19 +96,19 @@ Results following testing are outlined below:
 
 The code validation in W3C HTML Validator has not highlighted any code errors.
 
-![Index File](assets/images/html.JPG)
+![Index File](assets/images/html.jpg)
 
 **CSS code**
 
 The code validation in Jigsaw CSS Validator has not highlighted code errors.
 
-![CSS File](assets/images/css.JPG)
+![CSS File](assets/images/css.jpg)
 
 **JavaScrip code**
 
 The code validation in JSHint Validator has not highlighted code errors. One warning has been displayed regarding question mark in the code.
 
-![Java File](assets/images/javascript.JPG)
+![Java File](assets/images/javascript.jpg)
 
 **Lighthouse – Dev Tools**
 
@@ -116,11 +116,11 @@ Game was tested on Lighthouse tool for desktop and mobile devices.
 
 *Desktop*
 
-![Desktop](assets/images/dlighthouse.JPG)
+![Desktop](assets/images/dlighthouse.jpg)
 
 *Mobile*
 
-![Mobile](assets/images/mlighthouse.JPG)
+![Mobile](assets/images/mlighthouse.jpg)
 
 **Bugs**
 
