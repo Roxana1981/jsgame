@@ -126,6 +126,14 @@ Game was tested on Lighthouse tool for desktop and mobile devices.
 
 **Bugs**
 
+ **Fixed**
+
+- In the process of development there was a bug identified, which did not allow for game selection images to be updated. This bug has been fixed since and in the process of this project development.
+ 
+ **Unfixed**
+
+ - In the code there is still a bug, which impacts the winner message. The bug is specific to when selection of the user is rock and computer's is scissors. A correct winner is declared however the message color does not update accordingly.
+
 ## Deployment
 
 The code was deployed through Github. Steps followed for the deployment were:
