@@ -137,3 +137,21 @@ The code was deployed through Github. Steps followed for the deployment were:
 7. After few seconds, site was confirmed to be live at: https://roxana1981.github.io/jsgame/
 
 ## Credits
+
+Game images were sourced from Pexels website.
+
+- Player image - credit to Alex Green at Pexels.
+
+- Computer image - credit to Pixabay at Pexels.
+
+- Scissors image - credit to Ekrulila at Pexels.
+
+- Stone image - credit to Anna Urlapova at Pexels.
+
+- Paper image - credit to Karolina Grabowska at Pexels.
+
+-The project concept was influenced by Code Institute's JavaScript content and resource below:
+https://sebhastian.com/rock-paper-scissors-javascript/
+
+Thanky you to Code Institute for module content and also Slack community.
+
