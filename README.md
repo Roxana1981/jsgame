@@ -98,4 +98,14 @@ Game was tested on Lighthouse tool for desktop and mobile devices.
 
 ## Deployment
 
+The code was deployed through Github. Steps followed for the deployment were:
+
+1. Access repository section in Github platform.
+2. Go to the project to be deployed.
+3. Navigate to settings.
+4. Select Pages section.
+5. Within "Build and Deployment" section, select the source "deploy from a branch", branch to be marked as “main” and folder as “root”.
+6. Click Save.
+7. After few seconds, site was confirmed to be live at: https://roxana1981.github.io/jsgame/
+
 ## Credits
