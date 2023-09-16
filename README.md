@@ -151,7 +151,10 @@ Game images were sourced from Pexels website.
 - Paper image - credit to Karolina Grabowska at Pexels.
 
 -The project concept was influenced by Code Institute's JavaScript content and resource below:
+
 https://sebhastian.com/rock-paper-scissors-javascript/
+
+Dave Gray Youtube video: https://www.youtube.com/watch?v=C2_z34QFVjw
 
 Thanky you to Code Institute for module content and also Slack community.
 
